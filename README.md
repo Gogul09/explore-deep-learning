@@ -1,4 +1,4 @@
-# explore-deep-learning
+# Explore Deep Learning
 Learn how to build the ingredients of Deep Learning from scratch using Python.
 
 ### Table of contents ###
